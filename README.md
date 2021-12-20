@@ -1,1 +1,2 @@
 # awscloud-developer
+:cloud: :coffee:
